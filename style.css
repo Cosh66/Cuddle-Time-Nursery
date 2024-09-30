@@ -11,4 +11,21 @@ nav {
     padding: 1rem;
 }
 
+/* Hamburger button styles */
+.hamburger {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    width: 30px;
+    height: 25px;
+    justify-content: space-between;
+}
+
+.hamburger .bar {
+    height: 4px;
+    width: 100%;
+    background-color: white;
+    transition: all 0.3s ease-in-out;
+}
+
 

@@ -9,6 +9,23 @@
 </head>
 
 <body>
+    <script>
+        const hamburger = document.getElementById('hamburger');
+        const navList = document.getElementById('nav-list');
+        hamburger.addEventListener('click', function () {
+            navList.classList.toggle('show');
+        });
+    </script>
+
+    <nav>
+        <div class="hamburger" id="hamburger">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+
+        </div>
+    </nav>
+
 
     <!-- Navigation Menu Links -->
     <ul class="nav-list" id="nav-list">
