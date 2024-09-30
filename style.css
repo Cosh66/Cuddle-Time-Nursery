@@ -7,8 +7,7 @@
 /* Style for navigation bar */
 nav {
     position: relative;
-    background-color: #a4cef3
-    padding: 1rem;
+    background-color: #a4cef3 padding 1rem;
 }
 
 /* Hamburger button styles */
@@ -67,19 +66,19 @@ nav {
 @media (min-width: 768px) {
     .hamburger {
         display: none;
-}
+    }
 
-.nav-list {
-    display: flex;
-    position: relative;
-    flex-direction: row;
-    justify-content: space-around;
-    width: auto;
-}
+    .nav-list {
+        display: flex;
+        position: relative;
+        flex-direction: row;
+        justify-content: space-around;
+        width: auto;
+    }
 
-.nav-list li {
-    margin: 0;
-}
+    .nav-list li {
+        margin: 0;
+    }
 }
 
 .container {
@@ -95,13 +94,12 @@ nav {
 /* add style for phones smaller than 768px */
 @media (max-width: 800px) {
     .item {
-        flex 1 1 100%;
+        flex: 100%;
     }
 }
 
 .item {
-    flex 1 1 48%
-    margin: 1%;
+    flex: 1 1 48% margin 1%;
 }
 
 .register-btn {
@@ -114,24 +112,87 @@ nav {
     border-radius: 5px;
     cursor: pointer;
     display: inline-block;
-    margin-top 50px;
+    margin-top: 50px;
     text-decoration: none;
 }
 
 /* Adding hover effects */
-.register-btn: hover {
+.register-btn hover {
     background-color: #44ac48;
 }
 
 /* styling the body */
 body {
-    font-family: arial', sans-serif;
-    background-color: #a4cef3; 
+    font-family: Arial', sans-serif;
+ background-color #a4cef3;
     color: #333;
     line-height: 1.6;
     margin: 0;
 }
 
 /* Styling the header */
+header {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
 
+header h1 {
+    font-size: 2.7.rem;
+    margin-bottom: 10px;
+}
 
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Styling the section */
+section {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #f18199;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+p,
+ul {
+    margin-bottom: 15px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+
+}
