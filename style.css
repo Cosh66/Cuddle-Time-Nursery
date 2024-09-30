@@ -93,3 +93,45 @@ nav {
 }
 
 /* add style for phones smaller than 768px */
+@media (max-width: 800px) {
+    .item {
+        flex 1 1 100%;
+    }
+}
+
+.item {
+    flex 1 1 48%
+    margin: 1%;
+}
+
+.register-btn {
+    background-color: #4caf50;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin-top 50px;
+    text-decoration: none;
+}
+
+/* Adding hover effects */
+.register-btn: hover {
+    background-color: #44ac48;
+}
+
+/* styling the body */
+body {
+    font-family: arial', sans-serif;
+    background-color: #a4cef3; 
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* Styling the header */
+
+
