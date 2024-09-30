@@ -8,8 +8,11 @@ PROJECT DESCRIPTION: This is a simple, responsive website for Cuddle Time Nurser
 - A registration form for parents to enroll their children.
   
 ![image](https://github.com/user-attachments/assets/763fc8e5-7526-43c5-9079-d8bdc2b95625)
+
 ![image](https://github.com/user-attachments/assets/8a0e0152-799f-4b71-943c-fa1d7775c5ea)
+
 ![image](https://github.com/user-attachments/assets/0cc7e3cd-6af7-418e-a70f-86f750c8dc56)
+
 ![image](https://github.com/user-attachments/assets/c8aabb5d-a0ea-4319-b730-27de54262f22)
 
 ## Technologies Used
