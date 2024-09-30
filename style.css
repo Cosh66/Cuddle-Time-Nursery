@@ -28,4 +28,16 @@ nav {
     transition: all 0.3s ease-in-out;
 }
 
+/* Hide navigation bar for mobile phones */
+.nav-list {
+    list-style: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #a4cef3;
+    width: 100%;
+    display: none;
+    float: column;
+    align-items: center;
+}
 
