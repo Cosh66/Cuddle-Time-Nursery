@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: boarder-box;
+}
+
+/* Style for navigation bar */
+nav {
+    position: relative;
+    background-color: #a4cef3
+    padding: 1rem;
+}
+
+
