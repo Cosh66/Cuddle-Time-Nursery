@@ -41,3 +41,44 @@ nav {
     align-items: center;
 }
 
+/* Styling navigation links */
+.nav-list li {
+    margin: 15px 0;
+}
+
+.nav-list a {
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.nav-list a:hover {
+    background-color: #d7f5d1;
+}
+
+.nav-list.active {
+    display: flex;
+}
+
+/* show navigation for larger screens */
+@media (min-width: 768px) {
+    .hamburger {
+        display: none;
+}
+
+.nav-list {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-around;
+    width: auto;
+}
+
+.nav-list li {
+    margin: 0;
+}
+}
+
