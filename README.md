@@ -18,7 +18,7 @@ PROJECT DESCRIPTION: This is a simple, responsive website for Cuddle Time Nurser
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript (optional if I use any for interactions)
 
   ## Installation & Setup
