@@ -1,11 +1,13 @@
 # Cuddle-Time-Nursery
 PROJECT DESCRIPTION: This is a simple, responsive website for Cuddle Time Nursery School, catering to children aged 2 to 4 years. The website provides information about the nursery's activities, safeguarding policies, contact details, and a registration form for parents.
 
+
 ## Features
 - Responsive design for mobile, tablet, and desktop.
 - Hamburger menu for easy navigation on smaller devices.
 - Information about the nursery's activities, safeguarding policies, and contact details.
 - A registration form for parents to enroll their children.
+- 
   
 ![image](https://github.com/user-attachments/assets/763fc8e5-7526-43c5-9079-d8bdc2b95625)
 
@@ -16,6 +18,7 @@ PROJECT DESCRIPTION: This is a simple, responsive website for Cuddle Time Nurser
 ![image](https://github.com/user-attachments/assets/c8aabb5d-a0ea-4319-b730-27de54262f22)
 
 ## Technologies Used
+
 
 - HTML5
 - CSS
@@ -56,6 +59,8 @@ For questions or inquiries, please contact:
 - Watch youtube, copid on to my website, again did not work with my website.
 - I have managed to make a hamburger menu that is not active.
 - The more I messed with the hamburger menu, it was messing up my website.
+
+- ## Validation
 
 - 
 
