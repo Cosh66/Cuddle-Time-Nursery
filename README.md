@@ -51,6 +51,12 @@ For questions or inquiries, please contact:
 
 - Email: yvonnemccosh1966@gmail.com
 
+- ## bugs
+- I found that I could not do the hamburger menu, so I tried ChatGPT for help, but did not like how it was presented on my site.
+- Watch youtube, copid on to my website, again did not work with my website.
+- I have managed to make a hamburger menu that is not active.
+- The more I messed with the hamburger menu, it was messing up my website.
+
 - 
 
 
