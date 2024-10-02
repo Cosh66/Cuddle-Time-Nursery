@@ -146,6 +146,8 @@ ction -->↩<section id="image">↩    <
 
 ## hopefuly sort this tomorrow
 
+## four warnings on the Validator this morning
+
 - 
 
 
