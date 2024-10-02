@@ -152,6 +152,11 @@ ction -->↩<section id="image">↩    <
 
 ![CSS errors](https://github.com/user-attachments/assets/ec9a13a4-c5a3-4b1e-ae07-6a776ee9d1e0)
 
+## HTML validator problems
+
+![HTML errors](https://github.com/user-attachments/assets/16961d1e-3b0b-4e75-b0dc-4e7b4ba17346)
+
+
 
 
 
