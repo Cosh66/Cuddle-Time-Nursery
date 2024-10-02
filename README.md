@@ -146,10 +146,11 @@ ction -->↩<section id="image">↩    <
 
 ## hopefuly sort this tomorrow
 
-## four warnings on the Validator this morning
 
-- 
 
+## CSS validator problems
+
+![CSS errors](https://github.com/user-attachments/assets/ec9a13a4-c5a3-4b1e-ae07-6a776ee9d1e0)
 
 
 
