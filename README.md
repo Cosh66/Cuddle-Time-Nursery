@@ -60,6 +60,9 @@ For questions or inquiries, please contact:
 - I have managed to make a hamburger menu that is not active.
 - The more I messed with the hamburger menu, it was messing up my website.
 
+- ## Javascript
+- I copied Javascript from ChatGPT to make my hamburger active, as I do not know alot about Javascript at this moment in time.
+
 
 ## CSS validator problems
 
@@ -68,6 +71,10 @@ For questions or inquiries, please contact:
 ## HTML validator problems
 
 ![HTML errors](https://github.com/user-attachments/assets/16961d1e-3b0b-4e75-b0dc-4e7b4ba17346)
+
+## Credits
+Struggling to add images:/ solution was to drag them in and press shift on my keyboard
+Struggling to make my hamburger active:/ solution was add Javascript to the bottom of the page just before the body, I had javacript at the top of the page
 
 
 
